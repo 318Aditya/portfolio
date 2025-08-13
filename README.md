@@ -3,6 +3,9 @@
 Responsive personal portfolio website showcasing my skills, projects, and resume.  
 Built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
 
+## 🌐 Live Demo
+[View Portfolio](https://adityajadhav007.netlify.app/)
+
 ## 📌 Features
 - Responsive design
 - Smooth scrolling
